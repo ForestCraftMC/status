@@ -10,12 +10,10 @@ sites:
     url: https://littleskin.cn/api/yggdrasil
     expectedStatusCodes: [ 200, 201, 400, 401, 403, 404 ]
   - name: Forest Craft 服务器
-    url: $FC_ADDRESS
-    port: 4444
-    check: "tcp-ping"
+    url: https://fc.nijika.in/ping
   - name: OpenFrp Tunnel 1
     url: fc1.of.nijika.in
-    port: 55123
+    port: 55234
     check: "tcp-ping"
   - name: OpenFrp Tunnel 2
     url: fc2.of.nijika.in
