@@ -10,17 +10,17 @@ sites:
     url: https://littleskin.cn/api/yggdrasil
     expectedStatusCodes: [ 200, 201, 400, 401, 403, 404 ]
   - name: Forest Craft 服务器
-    url: https://fc.nijika.in/ping
+    url: $FC_ADDRESS
   - name: OpenFrp Tunnel 1
-    url: fc1.of.nijika.in
+    url: $FC_TN1
     port: 55234
     check: "tcp-ping"
   - name: OpenFrp Tunnel 2
-    url: fc2.of.nijika.in
+    url: $FC_TN2
     port: 55123
     check: "tcp-ping"
   - name: OpenFrp Tunnel 3
-    url: fc3.of.nijika.in
+    url: $FC_TN3
     port: 55123
     check: "tcp-ping"
   - name: Cloudflare Public DNS
@@ -33,12 +33,12 @@ status-website:
   cname: fcstatus.nijika.in
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Forest Craft
+  name: Status - Forest Craft
   introTitle: "**Forest Craft** 的状态监视页"
   introMessage: 如果 LittleSkin 和 OpenFrp Tunnels 都不是全红，那大概是你自己炸了而不是服务器炸了
   navbar:
-    - title: 当前版本
-      href: https://s.nijika.in/forestcraft/2.5
+    - title: 主页
+      href: https://fc.nijika.in
     - title: Status
       href: /
     - title: GitHub
