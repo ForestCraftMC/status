@@ -1,7 +1,7 @@
-url: https://fc.nijika.in/ping
+url: $FC_ADDRESS
 status: up
 code: 200
-responseTime: 4082
-lastUpdated: 2024-01-18T15:46:54.169Z
+responseTime: 4209
+lastUpdated: 2024-01-18T16:58:29.561Z
 startTime: 2024-01-16T04:49:02.363Z
 generator: Upptime <https://github.com/upptime/upptime>
