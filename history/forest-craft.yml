@@ -1,7 +1,7 @@
 url: $FC_ADDRESS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-02T03:54:40.832Z
+status: up
+code: 200
+responseTime: 2360
+lastUpdated: 2024-03-02T04:09:37.128Z
 startTime: 2024-01-16T04:49:02.363Z
 generator: Upptime <https://github.com/upptime/upptime>
