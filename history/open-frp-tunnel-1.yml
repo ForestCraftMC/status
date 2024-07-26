@@ -1,7 +1,7 @@
 url: $FC_TN1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-25T23:18:51.793Z
+status: up
+code: 200
+responseTime: 219
+lastUpdated: 2024-07-26T03:54:50.866Z
 startTime: 2024-01-15T16:24:42.666Z
 generator: Upptime <https://github.com/upptime/upptime>
