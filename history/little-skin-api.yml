@@ -1,7 +1,7 @@
 url: https://littleskin.cn/api/yggdrasil
-status: up
-code: 200
-responseTime: 574
-lastUpdated: 2024-10-16T23:18:20.726Z
+status: down
+code: 502
+responseTime: 463
+lastUpdated: 2024-10-17T18:58:39.817Z
 startTime: 2024-01-15T16:24:41.292Z
 generator: Upptime <https://github.com/upptime/upptime>
