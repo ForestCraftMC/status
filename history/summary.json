@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/littleskin.cn.ico",
     "slug": "little-skin",
     "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "99.11%",
+    "uptime": "97.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "97.30%",
-    "time": 2427,
-    "timeDay": 6745,
-    "timeWeek": 3042,
-    "timeMonth": 2236,
-    "timeYear": 2218,
+    "time": 2430,
+    "timeDay": 5748,
+    "timeWeek": 3177,
+    "timeMonth": 2292,
+    "timeYear": 2222,
     "dailyMinutesDown": {
-      "2025-01-25": 8,
       "2025-01-23": 239,
       "2025-01-22": 101,
       "2025-01-17": 24,
@@ -55,8 +54,7 @@
       "2024-02-09": 17,
       "2024-02-05": 78,
       "2024-01-31": 15,
-      "2024-01-30": 46,
-      "2024-01-27": 26
+      "2024-01-30": 46
     }
   },
   {
@@ -66,17 +64,16 @@
     "slug": "little-skin-api",
     "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "97.30%",
-    "time": 590,
-    "timeDay": 254,
-    "timeWeek": 536,
-    "timeMonth": 966,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "97.31%",
+    "time": 589,
+    "timeDay": 227,
+    "timeWeek": 528,
+    "timeMonth": 965,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-01-25": 8,
       "2025-01-23": 215,
       "2025-01-22": 101,
       "2025-01-17": 24,
@@ -115,8 +112,7 @@
       "2024-02-15": 19,
       "2024-02-09": 17,
       "2024-02-05": 78,
-      "2024-01-30": 46,
-      "2024-01-27": 26
+      "2024-01-30": 46
     }
   },
   {
@@ -125,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forest-craft",
     "status": "down",
-    "uptime": "22.32%",
+    "uptime": "22.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -136,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 2032,
     "dailyMinutesDown": {
-      "2025-01-25": 938,
+      "2025-01-26": 103,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -440,8 +437,7 @@
       "2024-02-06": 286,
       "2024-02-05": 52,
       "2024-01-29": 933,
-      "2024-01-28": 785,
-      "2024-01-27": 597
+      "2024-01-28": 785
     }
   },
   {
@@ -450,15 +446,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-frp-tunnel-1",
     "status": "up",
-    "uptime": "40.20%",
+    "uptime": "40.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.53%",
+    "uptimeYear": "40.65%",
     "time": 251,
-    "timeDay": 269,
-    "timeWeek": 240,
-    "timeMonth": 243,
+    "timeDay": 256,
+    "timeWeek": 237,
+    "timeMonth": 244,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2024-12-16": 26,
@@ -692,8 +688,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -702,15 +697,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-frp-tunnel-2",
     "status": "up",
-    "uptime": "32.13%",
+    "uptime": "32.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.08%",
-    "uptimeYear": "30.56%",
+    "uptimeMonth": "42.46%",
+    "uptimeYear": "30.68%",
     "time": 237,
-    "timeDay": 261,
-    "timeWeek": 228,
-    "timeMonth": 235,
+    "timeDay": 220,
+    "timeWeek": 223,
+    "timeMonth": 234,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-01-12": 826,
@@ -986,8 +981,7 @@
       "2024-02-13": 203,
       "2024-01-30": 56,
       "2024-01-29": 944,
-      "2024-01-28": 793,
-      "2024-01-27": 599
+      "2024-01-28": 793
     }
   },
   {
@@ -996,15 +990,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-frp-tunnel-3",
     "status": "up",
-    "uptime": "23.84%",
+    "uptime": "23.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "40.89%",
-    "uptimeYear": "24.27%",
+    "uptimeMonth": "42.27%",
+    "uptimeYear": "24.39%",
     "time": 266,
-    "timeDay": 260,
+    "timeDay": 249,
     "timeWeek": 291,
-    "timeMonth": 266,
+    "timeMonth": 265,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-01-23": 86,
@@ -1303,8 +1297,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -1319,9 +1312,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 42,
+    "timeDay": 39,
     "timeWeek": 36,
-    "timeMonth": 36,
+    "timeMonth": 37,
     "timeYear": 41,
     "dailyMinutesDown": {}
   }
